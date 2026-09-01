@@ -4,6 +4,6 @@ My main focus is backend and data analysis, however, I have worked in a multitud
 
 I'm currently looking for a internship or remote work that allow me to finish my tesis project for next year, eager to learn and expand my skills in the upcoming years. 
 
-#Skills
+# Skills
 
 Python, c++, javascript, godot, postgresql, mysql
